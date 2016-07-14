@@ -7,7 +7,7 @@ import {
         TimePickerField
       } from './index'
 
-export default {
+export {
         Form,
         Separator, InputField, LinkField,
         SwitchField, PickerField, DatePickerField,
