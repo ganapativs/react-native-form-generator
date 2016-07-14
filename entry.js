@@ -1,5 +1,15 @@
 'use strict';
 
-import FormGenerator from './index'
+import {
+        Form,
+        Separator, InputField, LinkField,
+        SwitchField, PickerField, DatePickerField,
+        TimePickerField
+      } from './index'
 
-export default FormGenerator;
+export default {
+        Form,
+        Separator, InputField, LinkField,
+        SwitchField, PickerField, DatePickerField,
+        TimePickerField
+      };
